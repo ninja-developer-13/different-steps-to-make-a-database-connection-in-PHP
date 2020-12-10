@@ -8,6 +8,7 @@
     PDO
 
 MySQLi Object-Oriented:
+    
     <?php
     $servername = "localhost";
     $username = "username";
@@ -22,7 +23,9 @@ MySQLi Object-Oriented:
     }
     echo "Connected successfully";
     ?> 
+    
 MySQLi Procedural
+    
     <?php
     $servername = "localhost";
     $username = "username";
@@ -39,6 +42,7 @@ MySQLi Procedural
     ?> 
 
  PDO:
+    
     <?php
     $servername = "localhost";
     $username = "username";
